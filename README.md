@@ -9,4 +9,4 @@ Purpose
 This is a portfolio project built to show front end development skills and a practical application of AI assisted development. It targets kids roughly aged 5-10 and makes English vocabulary practice feel like a game.
 Feedback
 If you've been given access and tried the app, I'd love to hear your thoughts. Open a GitHub Issue or DM me directly @ssstudios2026 on Instagram.
-here is the link:linkitkids.netlify.app
+here is the link: linkitkids.netlify.app
