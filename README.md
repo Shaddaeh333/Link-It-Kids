@@ -1,12 +1,32 @@
-LinkIt Kids
-A browser based English word spelling game for kids, built with HTML, CSS, and JavaScript.
-What it does
-Kids enter their name, choose a difficulty level, then spell words by tapping scrambled letter tiles. Each word comes with a clue and an emoji hint to help them along. There are three levels: Easy (3-letter words), Medium (4-5 letters), and Hard (6+ letters). The game tracks lives and a star score,then it give the kids a simple completion certificate at the end. includes a skip option and a sound toggle.
-Access is protected by a code to keep it controlled while sharing for feedback. If you'd like to try it,email shadreckkateta6@gmail.com and I'll send the code.
-How it was built
-I came up with the concept and mapped out the features I wanted. I then worked with Claude (AI assistant by Anthropic), prompting it repeatedly and refining the output until the game matched my vision. The final code is vanilla HTML, CSS, and JavaScript with no frameworks or libraries.
-Purpose
-This is a portfolio project built to show front end development skills and a practical application of AI assisted development. It targets kids roughly aged 5-10 and makes English vocabulary practice feel like a game.
-Feedback
-If you've been given access and tried the app, I'd love to hear your thoughts. Open a GitHub Issue or email to shadreckkateta6@gmail.com
-here is the link: https://linkitkids.netlify.app/
+# Link-It Kids
+
+A colourful spelling game for children, with a picture and a hint for every word.
+
+**Play it now:** https://linkitkids.netlify.app
+
+## Features
+- 130 English words, each with an emoji and a hint
+- Three levels: Easy (3 letters), Medium (4 to 5) and Hard (6+)
+- Three lives, a score counter, sound effects and confetti
+- Works on phones and in the browser
+
+## How to access it
+Open the link above in any browser on your phone or computer. There is nothing to download or install.
+
+## Built with
+HTML, CSS and JavaScript in a single file, with no libraries. Hosted on Netlify.
+
+## How it was built
+I designed the game and its mechanics myself. The code was written with AI assistance (Claude).
+
+## What I learned
+- How to plan a project and write clear requirements before building
+- How to direct an AI tool, test the result and fix problems
+- How to publish a web app with Netlify and document it on GitHub
+
+## Sequel
+The German version is called SpellDE: https://spellde.netlify.app
+
+## Author
+Made by Shadreck C.
+<img width="300" alt="1000190206" src="https://github.com/user-attachments/assets/3e893952-406d-4e04-84c1-5bc87e55e2bd" />
