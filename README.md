@@ -1,4 +1,6 @@
 # Link-It Kids
+<img width="300" alt="1000190206" src="https://github.com/user-attachments/assets/cfd9e010-9200-4a79-9bda-624b6b50e875" />
+
 
 A colourful spelling game for children, with a picture and a hint for every word.
 
@@ -29,4 +31,3 @@ The German version is called SpellDE: https://spellde.netlify.app
 
 ## Author
 Made by Shadreck C.
-<img width="300" alt="1000190206" src="https://github.com/user-attachments/assets/3e893952-406d-4e04-84c1-5bc87e55e2bd" />
